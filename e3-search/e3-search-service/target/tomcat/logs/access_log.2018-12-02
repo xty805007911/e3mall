@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [02/Dec/2018:15:06:25 +0800] "GET /productlist/search?inputBox=1&categoryId=0&keyword=%E6%89%8B%E6%9C%BA HTTP/1.1" 404 987 http-bio-8084-exec-1 383
+0:0:0:0:0:0:0:1 - - [02/Dec/2018:15:06:25 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8084-exec-2 1

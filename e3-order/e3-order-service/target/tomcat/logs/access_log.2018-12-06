@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [06/Dec/2018:10:26:32 +0800] "GET /order/order-cart.html HTTP/1.1" 404 993 http-bio-8091-exec-1 50
+0:0:0:0:0:0:0:1 - - [06/Dec/2018:10:26:32 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8091-exec-2 2

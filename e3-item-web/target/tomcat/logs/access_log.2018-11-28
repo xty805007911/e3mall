@@ -1,0 +1,10 @@
+127.0.0.1 - - [28/Nov/2018:15:07:34 +0800] "GET /item/genHtml.html HTTP/1.1" 500 3784 http-bio-8086-exec-1 1044
+127.0.0.1 - - [28/Nov/2018:15:07:35 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8086-exec-2 2
+127.0.0.1 - - [28/Nov/2018:15:10:57 +0800] "GET /item/genHtml.html HTTP/1.1" 500 3550 http-bio-8086-exec-1 134
+127.0.0.1 - - [28/Nov/2018:15:10:57 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8086-exec-2 2
+127.0.0.1 - - [28/Nov/2018:15:11:37 +0800] "GET /item/genHtml.html HTTP/1.1" 500 3550 http-bio-8086-exec-1 135
+127.0.0.1 - - [28/Nov/2018:15:11:37 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8086-exec-2 2
+127.0.0.1 - - [28/Nov/2018:15:12:48 +0800] "GET /item/genHtml.html HTTP/1.1" 500 3553 http-bio-8086-exec-1 128
+127.0.0.1 - - [28/Nov/2018:15:12:48 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8086-exec-2 2
+127.0.0.1 - - [28/Nov/2018:15:13:11 +0800] "GET /item/genHtml.html HTTP/1.1" 404 949 http-bio-8086-exec-1 166
+127.0.0.1 - - [28/Nov/2018:15:13:11 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8086-exec-2 1
